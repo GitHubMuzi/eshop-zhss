@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/best-effort-inform-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eshop-auth/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eshop-cart/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eshop-comment/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eshop-commodity-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eshop-commodity/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eshop-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eshop-customer-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eshop-customer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eshop-finance-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eshop-finance/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eshop-inventory-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eshop-inventory/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eshop-logistics-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eshop-logistics/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eshop-membership-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eshop-membership/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eshop-order-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eshop-order/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eshop-pay-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eshop-pay/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eshop-promotion-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eshop-promotion/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eshop-purchase-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eshop-purchase/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eshop-schedule-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eshop-schedule/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eshop-wms-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eshop-wms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/reliable-message-service-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/reliable-message-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuul-gateway/src/main/java" charset="UTF-8" />
+  </component>
+</project>

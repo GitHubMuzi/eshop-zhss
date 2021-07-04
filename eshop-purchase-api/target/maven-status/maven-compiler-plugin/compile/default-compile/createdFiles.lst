@@ -1,0 +1,7 @@
+com\zhss\eshop\purchase\constant\PurchaseOrderApproveResult.class
+com\zhss\eshop\purchase\constant\SettlementPeriod.class
+com\zhss\eshop\purchase\constant\PurchaseOrderStatus.class
+com\zhss\eshop\purchase\domain\SupplierDTO.class
+com\zhss\eshop\purchase\api\PurchaseApi.class
+com\zhss\eshop\purchase\domain\PurchaseOrderDTO.class
+com\zhss\eshop\purchase\domain\PurchaseOrderItemDTO.class

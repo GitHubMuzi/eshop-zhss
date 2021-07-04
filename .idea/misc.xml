@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/best-effort-inform-service/pom.xml" />
+        <option value="$PROJECT_DIR$/eshop-auth/pom.xml" />
+        <option value="$PROJECT_DIR$/eshop-cart/pom.xml" />
+        <option value="$PROJECT_DIR$/eshop-comment/pom.xml" />
+        <option value="$PROJECT_DIR$/eshop-commodity/pom.xml" />
+        <option value="$PROJECT_DIR$/eshop-commodity-api/pom.xml" />
+        <option value="$PROJECT_DIR$/eshop-common/pom.xml" />
+        <option value="$PROJECT_DIR$/eshop-customer/pom.xml" />
+        <option value="$PROJECT_DIR$/eshop-customer-api/pom.xml" />
+        <option value="$PROJECT_DIR$/eshop-finance/pom.xml" />
+        <option value="$PROJECT_DIR$/eshop-finance-api/pom.xml" />
+        <option value="$PROJECT_DIR$/eshop-inventory/pom.xml" />
+        <option value="$PROJECT_DIR$/eshop-inventory-api/pom.xml" />
+        <option value="$PROJECT_DIR$/eshop-logistics/pom.xml" />
+        <option value="$PROJECT_DIR$/eshop-logistics-api/pom.xml" />
+        <option value="$PROJECT_DIR$/eshop-membership/pom.xml" />
+        <option value="$PROJECT_DIR$/eshop-membership-api/pom.xml" />
+        <option value="$PROJECT_DIR$/eshop-order/pom.xml" />
+        <option value="$PROJECT_DIR$/eshop-order-api/pom.xml" />
+        <option value="$PROJECT_DIR$/eshop-pay/pom.xml" />
+        <option value="$PROJECT_DIR$/eshop-pay-api/pom.xml" />
+        <option value="$PROJECT_DIR$/eshop-promotion/pom.xml" />
+        <option value="$PROJECT_DIR$/eshop-promotion-api/pom.xml" />
+        <option value="$PROJECT_DIR$/eshop-purchase/pom.xml" />
+        <option value="$PROJECT_DIR$/eshop-purchase-api/pom.xml" />
+        <option value="$PROJECT_DIR$/eshop-schedule/pom.xml" />
+        <option value="$PROJECT_DIR$/eshop-schedule-api/pom.xml" />
+        <option value="$PROJECT_DIR$/eshop-wms/pom.xml" />
+        <option value="$PROJECT_DIR$/eshop-wms-api/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/reliable-message-service/pom.xml" />
+        <option value="$PROJECT_DIR$/reliable-message-service-api/pom.xml" />
+        <option value="$PROJECT_DIR$/zuul-gateway/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_14" default="false" project-jdk-name="JavaSE-1.8" project-jdk-type="JavaSDK" />
+</project>

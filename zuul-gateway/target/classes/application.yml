@@ -1,0 +1,66 @@
+server:
+  port: 9000
+  
+spring:
+  application:
+    name: zuul-gateway
+    
+eureka:
+  instance:
+    hostname: localhost
+  client:
+    serviceUrl:
+      defaultZone: http://peer1:8761/eureka/,http://peer2:8762/eureka/
+      
+zuul:
+  retryable: true
+  routes:
+    ServiceB:
+      path: /demo/**
+    eshop-auth:
+      path: /eshop-auth/**
+    eshop-inventory:
+      path: /eshop-inventory/**
+    eshop-commodity:
+      path: /eshop-commodity/**
+    eshop-membership:
+      path: /eshop-membership/**
+    eshop-promotion:
+      path: /eshop-promotion/**
+    eshop-cart:
+      path: /eshop-cart/**
+    eshop-comment:
+      path: /eshop-comment/**
+    eshop-order:
+      path: /eshop-order/**
+    eshop-customer:
+      path: /eshop-customer/**
+    eshop-finance:
+      path: /eshop-finance/**
+    eshop-logistics:
+      path: /eshop-logistics/**
+    eshop-pay:
+      path: /eshop-pay/**
+    eshop-purchase:
+      path: /eshop-purchase/**
+    eshop-schedule:
+      path: /eshop-schedule/**
+    eshop-wms:
+      path: /eshop-wms/**
+    data-refill-center-service:
+      path: /data/refill/**
+
+hystrix:
+  command:
+    default:
+      execution:
+        isolation:
+          thread:
+            timeoutInMilliseconds: 45000
+
+ribbon:
+  ConnectTimeout: 5000
+  ReadTimeout: 5000
+  OkToRetryOnAllOperations: true
+  MaxAutoRetries: 1
+  MaxAutoRetriesNextServer: 1

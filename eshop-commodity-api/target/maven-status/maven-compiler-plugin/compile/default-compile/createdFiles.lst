@@ -1,0 +1,4 @@
+com\zhss\eshop\commodity\domain\GoodsSkuSalePropertyValueDTO.class
+com\zhss\eshop\commodity\domain\GoodsDTO.class
+com\zhss\eshop\commodity\domain\GoodsSkuDTO.class
+com\zhss\eshop\commodity\api\CommodityApi.class

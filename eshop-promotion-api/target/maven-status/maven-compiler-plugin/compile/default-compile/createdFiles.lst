@@ -1,0 +1,9 @@
+com\zhss\eshop\promotion\api\PromotionApi.class
+com\zhss\eshop\promotion\constant\CouponGiveOutType.class
+com\zhss\eshop\promotion\domain\PromotionActivityDTO.class
+com\zhss\eshop\promotion\domain\PromotionActivityGoodsRelationDTO.class
+com\zhss\eshop\promotion\constant\CouponStatus.class
+com\zhss\eshop\promotion\constant\PromotionActivityStatus.class
+com\zhss\eshop\promotion\domain\CouponDTO.class
+com\zhss\eshop\promotion\constant\CouponType.class
+com\zhss\eshop\promotion\constant\PromotionActivityType.class

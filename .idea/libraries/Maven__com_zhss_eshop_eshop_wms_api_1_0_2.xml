@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.zhss.eshop:eshop-wms-api:1.0.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../Maven repository/repository/com/zhss/eshop/eshop-wms-api/1.0.2/eshop-wms-api-1.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../Maven repository/repository/com/zhss/eshop/eshop-wms-api/1.0.2/eshop-wms-api-1.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../Maven repository/repository/com/zhss/eshop/eshop-wms-api/1.0.2/eshop-wms-api-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

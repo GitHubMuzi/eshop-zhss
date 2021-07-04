@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="eshop-finance" />
+        <module name="eshop-membership-api" />
+        <module name="eshop-comment" />
+        <module name="eshop-pay-api" />
+        <module name="eshop-inventory-api" />
+        <module name="eshop-schedule" />
+        <module name="eshop-wms-api" />
+        <module name="eureka-server" />
+        <module name="eshop-inventory" />
+        <module name="eshop-common" />
+        <module name="eshop-logistics-api" />
+        <module name="eshop-schedule-api" />
+        <module name="eshop-finance-api" />
+        <module name="eshop-purchase-api" />
+        <module name="eshop-auth" />
+        <module name="eshop-membership" />
+        <module name="eshop-cart" />
+        <module name="eshop-commodity-api" />
+        <module name="reliable-message-service" />
+        <module name="eshop-order" />
+        <module name="eshop-logistics" />
+        <module name="zuul-gateway" />
+        <module name="reliable-message-service-api" />
+        <module name="eshop-customer" />
+        <module name="eshop-order-api" />
+        <module name="eshop-commodity" />
+        <module name="eshop-pay" />
+        <module name="eshop-purchase" />
+        <module name="eshop-wms" />
+        <module name="best-effort-inform-service" />
+        <module name="eshop-promotion-api" />
+        <module name="eshop-promotion" />
+        <module name="eshop-customer-api" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="best-effort-inform-service" target="1.8" />
+      <module name="eshop-auth" target="1.8" />
+      <module name="eshop-cart" target="1.8" />
+      <module name="eshop-comment" target="1.8" />
+      <module name="eshop-commodity" target="1.8" />
+      <module name="eshop-commodity-api" target="1.8" />
+      <module name="eshop-common" target="1.8" />
+      <module name="eshop-customer" target="1.8" />
+      <module name="eshop-customer-api" target="1.8" />
+      <module name="eshop-finance" target="1.8" />
+      <module name="eshop-finance-api" target="1.8" />
+      <module name="eshop-inventory" target="1.8" />
+      <module name="eshop-inventory-api" target="1.8" />
+      <module name="eshop-logistics" target="1.8" />
+      <module name="eshop-logistics-api" target="1.8" />
+      <module name="eshop-membership" target="1.8" />
+      <module name="eshop-membership-api" target="1.8" />
+      <module name="eshop-order" target="1.8" />
+      <module name="eshop-order-api" target="1.8" />
+      <module name="eshop-pay" target="1.8" />
+      <module name="eshop-pay-api" target="1.8" />
+      <module name="eshop-promotion" target="1.8" />
+      <module name="eshop-promotion-api" target="1.8" />
+      <module name="eshop-purchase" target="1.8" />
+      <module name="eshop-purchase-api" target="1.8" />
+      <module name="eshop-schedule" target="1.8" />
+      <module name="eshop-schedule-api" target="1.8" />
+      <module name="eshop-wms" target="1.8" />
+      <module name="eshop-wms-api" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="reliable-message-service" target="1.8" />
+      <module name="reliable-message-service-api" target="1.8" />
+      <module name="zuul-gateway" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

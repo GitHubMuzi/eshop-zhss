@@ -1,0 +1,3 @@
+com\zhss\eshop\membership\api\MembershipApi.class
+com\zhss\eshop\membership\domain\UserAccountDTO.class
+com\zhss\eshop\membership\api\MembershipTccApi.class

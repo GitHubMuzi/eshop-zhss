@@ -1,0 +1,4 @@
+com\zhss\eshop\inventory\api\InventoryApi.class
+com\zhss\eshop\inventory\constant\GoodsStockUpdateOperation.class
+com\zhss\eshop\inventory\api\InventoryTCCApi.class
+com\zhss\eshop\inventory\constant\StockStatus.class

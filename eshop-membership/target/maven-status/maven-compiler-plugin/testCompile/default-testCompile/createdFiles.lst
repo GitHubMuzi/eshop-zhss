@@ -1,0 +1,7 @@
+com\zhss\eshop\membership\dao\MemberPointDaoTest.class
+com\zhss\eshop\membership\dao\UserDetailDaoTest.class
+com\zhss\eshop\membership\dao\DeliveryAddressDaoTest.class
+com\zhss\eshop\membership\dao\MemberLevelDetailDaoTest.class
+com\zhss\eshop\membership\dao\MemberPointDetailDaoTest.class
+com\zhss\eshop\membership\dao\UserAccountDaoTest.class
+com\zhss\eshop\membership\dao\MemberLevelDaoTest.class
