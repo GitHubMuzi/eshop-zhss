@@ -3,7 +3,7 @@ package com.zhss.eshop.commodity.state;
 import com.zhss.eshop.commodity.domain.GoodsDTO;
 
 /**
- * 商品状态接口
+ * 商品状态接口     状态模式参考代码
  * @author zhonghuashishan
  *
  */
